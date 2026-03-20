@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Escritorio\Proyecto EmpresaReclutadora\EmpresaReclutadora\EmpresaReclutadora\obj\Debug\net6.0\EmpresaReclutadora.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Escritorio\Proyecto EmpresaReclutadora\EmpresaReclutadora\EmpresaReclutadora\obj\Debug\net6.0\EmpresaReclutadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Escritorio\Proyecto EmpresaReclutadora\EmpresaReclutadora\EmpresaReclutadora\obj\Debug\net6.0\EmpresaReclutadora.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\Proyecto EmpresaReclutadora\EmpresaReclutadora\EmpresaReclutadora\obj\Debug\net6.0\EmpresaReclutadora.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Escritorio\Proyecto EmpresaReclutadora\EmpresaReclutadora\EmpresaReclutadora\obj\Debug\net6.0\EmpresaReclutadora.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\Proyecto EmpresaReclutadora\EmpresaReclutadora\EmpresaReclutadora\bin\Debug\net6.0\EmpresaReclutadora.exe
+C:\Users\LENOVO\OneDrive\Escritorio\Proyecto EmpresaReclutadora\EmpresaReclutadora\EmpresaReclutadora\bin\Debug\net6.0\EmpresaReclutadora.deps.json
+C:\Users\LENOVO\OneDrive\Escritorio\Proyecto EmpresaReclutadora\EmpresaReclutadora\EmpresaReclutadora\bin\Debug\net6.0\EmpresaReclutadora.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Escritorio\Proyecto EmpresaReclutadora\EmpresaReclutadora\EmpresaReclutadora\bin\Debug\net6.0\EmpresaReclutadora.dll
+C:\Users\LENOVO\OneDrive\Escritorio\Proyecto EmpresaReclutadora\EmpresaReclutadora\EmpresaReclutadora\bin\Debug\net6.0\EmpresaReclutadora.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\Proyecto EmpresaReclutadora\EmpresaReclutadora\EmpresaReclutadora\obj\Debug\net6.0\EmpresaReclutadora.dll
+C:\Users\LENOVO\OneDrive\Escritorio\Proyecto EmpresaReclutadora\EmpresaReclutadora\EmpresaReclutadora\obj\Debug\net6.0\refint\EmpresaReclutadora.dll
+C:\Users\LENOVO\OneDrive\Escritorio\Proyecto EmpresaReclutadora\EmpresaReclutadora\EmpresaReclutadora\obj\Debug\net6.0\EmpresaReclutadora.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\Proyecto EmpresaReclutadora\EmpresaReclutadora\EmpresaReclutadora\obj\Debug\net6.0\EmpresaReclutadora.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Escritorio\Proyecto EmpresaReclutadora\EmpresaReclutadora\EmpresaReclutadora\obj\Debug\net6.0\ref\EmpresaReclutadora.dll
